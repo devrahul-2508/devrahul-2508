@@ -71,6 +71,8 @@
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.rahulroy.rr2508@gmail.com
 "><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
+<a href = "https://www.facebook.com/rahul.br25
+"><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
 </p>
 
 
