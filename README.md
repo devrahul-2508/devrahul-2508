@@ -67,7 +67,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/rahulr25
+<a href = "https://www.linkedin.com/in/rahulr25
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "rahulroy.rr2508@gmail.com
 "><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
